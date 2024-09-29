@@ -17,7 +17,7 @@ body {
   width: 400px;
   height: 500px;
   background: #000;
-  box-shadow: 0 0 20px rgb(190, 238, 241);
+  box-shadow: 0 0 30px #8a8989;
   border-radius: 20px;
   padding: 40px;
   overflow: hidden;
